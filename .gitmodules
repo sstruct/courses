@@ -1,0 +1,3 @@
+[submodule "github-battle"]
+	path = github-battle
+	url = git@github.com:sstruct/github-battle.git
