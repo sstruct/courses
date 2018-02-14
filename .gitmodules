@@ -1,3 +1,6 @@
 [submodule "github-battle"]
 	path = github-battle
 	url = git@github.com:sstruct/github-battle.git
+[submodule "modern-javascript"]
+	path = modern-javascript
+	url = git@github.com:sstruct/modern-javascript.git
