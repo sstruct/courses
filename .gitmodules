@@ -4,3 +4,9 @@
 [submodule "modern-javascript"]
 	path = modern-javascript
 	url = git@github.com:sstruct/modern-javascript.git
+[submodule "duckers"]
+	path = duckers
+	url = git@github.com:sstruct/duckers.git
+[submodule "duckr"]
+	path = duckr
+	url = git@github.com:sstruct/duckr.git
