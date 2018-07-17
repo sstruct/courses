@@ -10,3 +10,6 @@
 [submodule "duckr"]
 	path = duckr
 	url = git@github.com:sstruct/duckr.git
+[submodule "build-a-graphql-server"]
+	path = build-a-graphql-server
+	url = git@github.com:sstruct/build-a-graphql-server.git
